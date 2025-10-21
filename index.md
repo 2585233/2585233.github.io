@@ -1,5 +1,6 @@
+
 ---
-layout: default  # 指定使用Cayman主题的默认布局（固定值）
+layout: home  
 title: 朕要过六一的漂流瓶  # 页面标题（会覆盖_config.yml中的title）
 ---
 
@@ -9,3 +10,6 @@ title: 朕要过六一的漂流瓶  # 页面标题（会覆盖_config.yml中的t
 - 个人介绍：一个人。
 - 项目链接：暂时没有
 - 联系方式：2738199638@qq.com
+
+- ## 文章列表
+- [第一篇文章](_posts/2024-10-20-a_dream.md)
