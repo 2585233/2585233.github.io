@@ -23,7 +23,7 @@ nav:
     - title: "标签"
       url: /tags/
     - title: "留言板"  # 新增留言板导航
-      url: /guestbook/  # 对应留言板页面的路径
+      url:/guestbook/
 
 
 # 主题设置（Cayman主题必填）
