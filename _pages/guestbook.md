@@ -10,10 +10,10 @@ permalink: /guestbook/
 
   <!-- Utterances 评论框 -->
   <script src="https://utteranc.es/client.js"
-    repo="2585233/2585233.github.io" # 例如：username/username.github.io
-    issue-term="pathname" # 以页面路径作为 Issue 标识
-    label="comment 💬" # Issue 标签
-    theme="github-light" # 主题（与 Minimal Mistakes 适配）
+    repo="2585233/2585233.github.io" 
+    issue-term="pathname" 
+    label="comment 💬" 
+    theme="github-light" 
     crossorigin="anonymous"
     async>
   </script>
