@@ -11,7 +11,7 @@ include: ["_pages"]
 
 # 导航菜单配置（添加留言板后）
 header:
-  main:  # 主导航栏
+  menu:  # 主导航栏
     - title: "首页"
       url: /
     - title: "博客"
