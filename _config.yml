@@ -9,7 +9,7 @@ baseurl: ""  # 个人站点通常留空（若为子路径需填写，如 "/blog"
 permalink: /:categories/:title/  # 文章链接格式（可选，Minimal Mistakes 支持多种格式）
 
 
-# 导航菜单配置（修正版）
+# 导航菜单配置（添加留言板后）
 nav:
   main:  # 主导航栏
     - title: "首页"
@@ -22,6 +22,8 @@ nav:
       url: /categories/
     - title: "标签"
       url: /tags/
+    - title: "留言板"  # 新增留言板导航
+      url: /guestbook/  # 对应留言板页面的路径
 
 
 # 主题设置（Cayman主题必填）
