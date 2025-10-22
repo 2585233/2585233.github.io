@@ -1,5 +1,5 @@
 ---
-title: "a dream"
+title: "self-talking"
 date: 2025-10-22 00:00:00
 layout: single            # Minimal Mistakes 文章布局（固定为 single）
 ---
