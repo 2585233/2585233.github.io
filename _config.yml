@@ -4,7 +4,7 @@
 title: "朕要过六一的漂流瓶"
 subtitle: "来了请登记↓"
 description: "我还在学"
-url: "https://258233.github.io"  # 替换为你的 GitHub Pages 地址
+url: "https://2585233.github.io"  # 替换为你的 GitHub Pages 地址
 baseurl: ""  # 个人站点通常留空（若为子路径需填写，如 "/blog"）
 permalink: /:categories/:title/  # 文章链接格式（可选，Minimal Mistakes 支持多种格式）
 
@@ -23,7 +23,7 @@ nav:
     - title: "标签"
       url: /tags/
     - title: "留言板"  # 新增留言板导航
-      url:/guestbook/
+      url: /guestbook/
 
 
 # 主题设置（Cayman主题必填）
