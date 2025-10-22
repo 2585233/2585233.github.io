@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "小黑板"
-permalink: /guestbook/
+permalink:/guestbook/
 ---
 
 <!-- 留言板标题和说明 -->
