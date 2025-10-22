@@ -10,7 +10,7 @@ permalink: /:categories/:title/  # 文章链接格式（可选，Minimal Mistake
 include: ["_pages"]
 
 # 导航菜单配置（添加留言板后）
-nav:
+header:
   main:  # 主导航栏
     - title: "首页"
       url: /
