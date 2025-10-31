@@ -1,8 +1,0 @@
----
-layout: home
-title: "文库"
-permalink: /posts/
-author_profile: false
----
-
-这里是我的文库，存放我平时的一些想法与随笔。
