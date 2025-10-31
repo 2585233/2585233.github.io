@@ -1,22 +1,17 @@
 
 
-# 站点基本信息
+
 title: "朕要过六一的漂流瓶"
-subtitle: "来了请到【留言板】登记👉"
+subtitle: "来了请到【小黑板】留言 👉"
 description: "我还在学"
-url: "https://2585233.github.io"  # 替换为你的 GitHub Pages 地址
-baseurl: ""  # 个人站点通常留空（若为子路径需填写，如 "/blog"）
-permalink: /:categories/:title/  # 文章链接格式（可选，Minimal Mistakes 支持多种格式）
-include: ["_pages"]
+minimal_mistakes_skin: "air"   # 柔和蓝白配色
+author:
+  name: "朕要过六一"
+  avatar: "/assets/images/avatar.png"  # 可选头像
+  bio: "漂流瓶信使"
+  location: "Internet Ocean"
 
+# 评论系统配置（可选，但建议留空，因你已手动嵌入）
+comments:
+  provider: "none"
 
-
-# 主题设置（Cayman主题必填）
-remote_theme: mmistakes/minimal-mistakes@4.24.0  # 版本号可根据最新版调整
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache  # Minimal Mistakes 核心依赖
