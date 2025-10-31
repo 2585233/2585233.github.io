@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "朕要过六一的漂流瓶"
+title: ~~~~~~~~~~~~
 author_profile: false
 classes: narrow
 ---
