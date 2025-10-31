@@ -9,19 +9,6 @@ baseurl: ""  # 个人站点通常留空（若为子路径需填写，如 "/blog"
 permalink: /:categories/:title/  # 文章链接格式（可选，Minimal Mistakes 支持多种格式）
 include: ["_pages"]
 
-# 导航菜单配置（正确格式，移除 main: 层级）
-header:
-  nav:  # 直接在 header 下定义 menu 数组
-    - title: "首页"
-      url: /
-    - title: "博客"
-      url: /posts/
-    - title: "关于"
-      url: /about/
-    - title: "分类"
-      url: /categories/
-    - title: "留言板"
-      url: /guestbook/
 
 
 # 主题设置（Cayman主题必填）
