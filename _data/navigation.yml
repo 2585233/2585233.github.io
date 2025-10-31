@@ -1,7 +1,5 @@
-# _data/navigation.yml 内容示例
-main:
-header:
-
+# _data/navigation.yml
+main:  # 菜单名称（需与后续调用处对应）
   - title: "首页"
     url: /
   - title: "博客"
@@ -11,4 +9,4 @@ header:
   - title: "分类"
     url: /categories/
   - title: "留言板"
-    url: /guestbook/
+    url: /guestbook/  # 与留言板页面的 permalink 一致
