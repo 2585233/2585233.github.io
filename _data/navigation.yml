@@ -1,12 +1,7 @@
-# _data/navigation.yml
-main:  # 菜单名称（需与后续调用处对应）
-  - title: "首页"
+main:
+  - title: "主页"
     url: /
-  - title: "博客"
+  - title: "文库"
     url: /posts/
-  - title: "关于"
-    url: /about/
-  - title: "分类"
-    url: /categories/
-  - title: "留言板"
-    url: /guestbook/  # 与留言板页面的 permalink 一致
+  - title: "小黑板"
+    url: /guestbook/
