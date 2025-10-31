@@ -2,20 +2,25 @@
 layout: single
 title: "小黑板"
 permalink: /guestbook/
+author_profile: false
+classes: narrow
 ---
 
-<!-- 留言板标题和说明 -->
-
 <h2>欢迎留言</h2>
-<p>留下一封不知道什么时候寄到的信</p>
+<p>留下一封不知道什么时候寄到的信。</p>
+
+---
 
 <!-- Utterances 评论框 -->
 <script src="https://utteranc.es/client.js"
-  repo="2585233/2585233.github.io" 
-  issue-term="pathname" 
-  label="comment 💬" 
-  theme="github-light" 
-  crossorigin="anonymous"
-  async>
+        repo="2585233/2585233.github.io"
+        issue-term="pathname"
+        label="comment 💬"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
 
+---
+
+> 📝 提示：留言会保存在这个仓库的 Issues 里，就像在海边石头上写下的字，会被浪潮收藏起来。
