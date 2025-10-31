@@ -11,7 +11,7 @@ include: ["_pages"]
 
 # 导航菜单配置（正确格式，移除 main: 层级）
 header:
-  menu:  # 直接在 header 下定义 menu 数组
+  nav:  # 直接在 header 下定义 menu 数组
     - title: "首页"
       url: /
     - title: "博客"
