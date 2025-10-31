@@ -1,7 +1,8 @@
 ---
-layout: home  # 只保留布局配置，删除 title 行
-title: ""
-exclude: posts
+layout: home
+title: "朕要过六一的漂流瓶"
+show_excerpts: false  # 不显示文章摘要（关闭默认列表的核心）
+exclude: ["posts", "pages"]  # 配合禁用页面/文章区块
 ---
 # 你好，这是我的主页，我想在这里写写日常随想，我不想被人看到又不想不能被别人看到，所以把它扔到网络海洋里或许是个好主意
 
