@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ~~~~~~~~~~~~
+title: 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 author_profile: false
 classes: narrow
 ---
