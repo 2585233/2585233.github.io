@@ -1,7 +1,7 @@
 ---
 layout: home  # 只保留布局配置，删除 title 行
 title: ""
-exclude: ["posts", "pages"]
+exclude: posts
 ---
 # 你好，这是我的主页，我想在这里写写日常随想，我不想被人看到又不想不能被别人看到，所以把它扔到网络海洋里或许是个好主意
 
