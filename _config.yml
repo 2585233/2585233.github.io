@@ -32,7 +32,7 @@ plugins:
 # ==========================================
 author:
   name: "朕要过六一"
-  avatar: "/assets/images/avatar.png"  # 若没头像可删此行
+  avatar: "/assets/images/faked_author.png"  # 若没头像可删此行
   bio: "漂流瓶信使"
   location: "Internet Ocean"
 
