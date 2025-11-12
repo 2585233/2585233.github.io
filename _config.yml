@@ -31,8 +31,8 @@ plugins:
 # 👤 作者信息（可选）
 # ==========================================
 author:
-  name: "朕要过六一"
-  avatar: "/assets/images/faked_author.jpg"  # 若没头像可删此行
+  name: "锟锟锟锟锟锟"
+  avatar: "/assets/images/author.png"  # 若没头像可删此行
   bio: "漂流瓶信使"
   location: "Internet Ocean"
 
