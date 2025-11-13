@@ -33,7 +33,7 @@ plugins:
 author:
   name: "Carol-Hoo"
   avatar: "/assets/images/author.png"  # 若没头像可删此行
-  bio: "Would u like some drink?"
+  bio: "Would u like some drinks?"
   location: "双業幼稚园"
 
 # ==========================================
