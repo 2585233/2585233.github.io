@@ -62,14 +62,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# 引入自定义样式
-include:
-  - _pages
-  - _data
 
-# 自定义CSS路径
-custom_css:
-  - /assets/css/custom.scss
 
   
 # ==========================================
