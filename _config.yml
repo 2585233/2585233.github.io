@@ -31,9 +31,9 @@ plugins:
 # 👤 作者信息（可选）
 # ==========================================
 author:
-  name: "Oi~"
+  name: "Carol-Hoo"
   avatar: "/assets/images/author.png"  # 若没头像可删此行
-  bio: "你回来了"
+  bio: "Would u like some drink?"
   location: "双業幼稚园"
 
 # ==========================================
