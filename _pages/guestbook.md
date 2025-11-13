@@ -6,7 +6,7 @@ author_profile: false
 classes: narrow
 ---
 
-<h2>欢迎留言</h2>
+
 <p>留下一封不知道什么时候寄到的信。</p>
 
 ---
@@ -23,4 +23,7 @@ classes: narrow
 
 ---
 
-> 留言会保存在这个仓库的 Issues 里，就像在海边石头上写下的字，会被浪潮收藏起来。
+
+<div align="center">
+*留言会保存在这个仓库的 Issues 里，就像在海边石头上写下的字，会被浪潮收藏起来🌊🌊*
+</div>
