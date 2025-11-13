@@ -1,7 +1,7 @@
 # _data/backgrounds.yml
 
 default:
-  image: "/assets/images/backgrounds/default-bg.jpg"
+  image: "/assets/images/backgrounds/DSC_2358.jpg"
   overlay: "rgba(255, 255, 255, 0.85)"
   blend_mode: "normal"
 
