@@ -24,3 +24,5 @@
     rgba(0, 0, 0, 0.6)
   );
 }
+@import "minimal-mistakes/custom-variables"; // 你的变量文件
+@import "minimal-mistakes/custom";            // 你的自定义样式文件
