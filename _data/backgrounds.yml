@@ -1,0 +1,21 @@
+# _data/backgrounds.yml
+
+default:
+  image: "/assets/images/backgrounds/default-bg.jpg"
+  overlay: "rgba(255, 255, 255, 0.85)"
+  blend_mode: "normal"
+
+dark:
+  image: "/assets/images/backgrounds/dark-bg.jpg" 
+  overlay: "rgba(0, 0, 0, 0.7)"
+  blend_mode: "multiply"
+
+seasonal:
+  spring: "/assets/images/backgrounds/spring-bg.jpg"
+  summer: "/assets/images/backgrounds/summer-bg.jpg"
+  autumn: "/assets/images/backgrounds/autumn-bg.jpg"
+  winter: "/assets/images/backgrounds/winter-bg.jpg"
+
+special:
+  holiday: "/assets/images/backgrounds/holiday-bg.jpg"
+  birthday: "/assets/images/backgrounds/birthday-bg.jpg"
