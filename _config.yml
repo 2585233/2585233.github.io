@@ -54,6 +54,25 @@ include:
 comments:
   provider: "none"
 
+
+# _config.yml
+
+# SCSS配置
+sass:
+  load_paths:
+    - _sass
+  style: compressed
+
+# 引入自定义样式
+include:
+  - _pages
+  - _data
+
+# 自定义CSS路径
+custom_css:
+  - /assets/css/custom.scss
+
+  
 # ==========================================
 # ⚙️ 其他设置
 # ==========================================
