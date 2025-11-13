@@ -14,7 +14,7 @@ theme: null  # 让 GitHub Pages 不加载默认主题
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Minimal Mistakes 提供多种皮肤: air, default, dark, neon 等
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "default"
 
 # ==========================================
 # 🧩 插件
@@ -59,8 +59,7 @@ comments:
 
 # SCSS配置
 sass:
-  load_paths:
-    - _sass
+  sass_dir: _sass
   style: compressed
 
 # 引入自定义样式
