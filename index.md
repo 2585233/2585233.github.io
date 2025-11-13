@@ -5,7 +5,7 @@ author_profile: true
 classes: narrow
 ---
 
-![默认背景](assets/images/background/DSC_2358.jpg)
+![ ](assets/images/DSC_2358.jpg)
 
 ---
 
