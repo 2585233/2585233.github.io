@@ -5,7 +5,6 @@ author_profile: true
 classes: narrow
 ---
 
-![ ](assets/images/DSC_2358.jpg)
 
 ---
 
