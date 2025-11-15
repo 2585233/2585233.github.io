@@ -1,12 +1,9 @@
 ---
-# 让 Jekyll 识别并编译 Sass
+# 让 Jekyll 编译此文件
 ---
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-// 加载皮肤
-@import "minimal-mistakes";
-// 加载主题核心
+@import "minimal-mistakes"; // 主题核心
 
-// 你的自定义样式
-@import "minimal-mistakes/custom-variables";
+// 自定义样式
 @import "minimal-mistakes/custom";
