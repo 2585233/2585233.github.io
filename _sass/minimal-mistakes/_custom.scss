@@ -1,18 +1,31 @@
 body {
-  background-image: url("/assets/images/DSC_3204.jpg");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  // 确保body至少充满整个视口，并建立定位上下文
+  min-height: 100vh;
+  position: relative; // 这很重要，为::before伪元素提供定位基准
+  margin: 0; // 移除默认边距，确保背景铺满
+
+
 }
 
 body::before {
   content: "";
+  // 固定定位，让背景层不随页面滚动
   position: fixed;
   top: 0;
   left: 0;
-  width: 50%;
-  height: 50%;
-  background: rgba(255, 255, 255, 0.25);
+  width: 100%; // 覆盖整个视口宽度
+  height: 100%; // 覆盖整个视口高度
+
+  // 背景图片设置放在伪元素上
+  background-image: url("/assets/images/DSC_3204.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; // 注意：固定定位元素上这个属性可能表现不同，但可以保留。
+  background-repeat: no-repeat;
+
+  // 直接控制背景图层的透明度
+  opacity: 0.25; // 根据你的需要调整这个值 (0 = 完全透明, 1 = 完全不透明)
+
+  // 确保背景层在所有内容之下
   z-index: -1;
 }
