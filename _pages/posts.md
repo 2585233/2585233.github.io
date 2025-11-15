@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "文库"
+title: "帖子"
 permalink: /posts/
 author_profile: false
 show_recent_posts: false
 ---
 
 
-这里是我的文库，存放我平时的一些想法与随笔。
+来都来了，瞧一瞧看一看咯
