@@ -1,11 +1,12 @@
 ---
-# 这是 Jekyll 的前置内容区块
-# 确保被当作 Sass 文件编译
+# 让 Jekyll 识别并编译 Sass
 ---
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // 皮肤变量
-@import "minimal-mistakes"; // 主题核心
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+// 加载皮肤
+@import "minimal-mistakes";
+// 加载主题核心
 
-// ↓↓↓ 你的自定义部分必须放在这之后 ↓↓↓
+// 你的自定义样式
 @import "minimal-mistakes/custom-variables";
 @import "minimal-mistakes/custom";
