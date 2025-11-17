@@ -7,4 +7,4 @@ show_recent_posts: false
 ---
 
 
-来都来了，瞧一瞧看一看咯
+来都来了，看一看咯
